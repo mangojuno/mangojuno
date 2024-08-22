@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">aspiring UI/UX Specialist; Front-end Developer from the depths of hell</h3>
 
 - 🔭 I’m currently working on **project F.A.C.E. (an internal project within my organization)**
 
