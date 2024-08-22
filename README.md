@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrea</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **project F.A.C.E. (an internal project in my organization)**
+- 🔭 I’m currently working on **project F.A.C.E. (an internal project within my organization)**
 
 - 🌱 I’m currently learning **svelte**
 
-- 🌟 Personal Projects [(nothing as of the moment)]((nothing as of the moment))
+- 🌟 Personal Projects (nothing as of the moment)
 
 - 💬 Ask me about **nodejs**
 
